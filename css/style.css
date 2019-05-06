@@ -199,7 +199,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-header .display-tc .profile-thumb,
 .fh5co-cover .display-tc .profile-thumb {
-  background: url("./images/230.png");
+  background: url("../images/230.png");
   background-size: cover !important;
   background-position: center center;
   background-repeat: no-repeat;
@@ -711,7 +711,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .qiita {
-  background-image: url("./images/qiita-favicon.png");
+  background-image: url("../images/qiita-favicon.png");
 }
 
 .work {
